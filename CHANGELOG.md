@@ -6,6 +6,8 @@ All notable changes to this project will be documented in this file.
 ## Master
 
 #### Updated
+* Add a method to return DataResponse from DataRequest.responseString(). This
+  allows access to performance metrics.
 
 #### Fixed
 
